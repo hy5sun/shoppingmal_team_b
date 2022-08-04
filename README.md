@@ -30,3 +30,21 @@ Mentor : [이재윤](https://github.com/sosow0212)
 - TCP (Transmission Control Protocol) + CIA (Confidentiality, Integrity, Availability) + RSA + RFC
 - yml
 - JWT Filter
+---
+# 5. Progress
+| **Completed** |
+```text
+< Setup >
+1. Project Init | 프로젝트 초기화
+2. Project Preferences | 프로젝트 환경설정
+```
+| **Incomplete** |
+```text
+< Implement >
+1. Sign Up & Login | 회원가입 & 로그인
+2. Wish List | 찜 목록
+3. Shopping Basket | 장바구니
+4. Item Lookup & Edit Personal Information | 품목 조회 & 회원정보 수정
+5. Review | 리뷰
+6. Service Center | 고객 센터
+```
